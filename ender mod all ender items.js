@@ -38,3 +38,11 @@ if block place
   function lava zombie immue to all fire but water are weakness
   ghost you can kill it with bow they only fly never walk no body
   
+  
+  make.every.block = false 
+  villager.trading = fair
+  water.pool and lava.pool = switch places
+  dirt and stone = switch places
+  if stone and dirt switch places stone all on land and dirt on under ground
+  then to mine stone needed pickaxe 
+  if don't have pickaxe no one can mine rock isn' fun right?
